@@ -1,0 +1,17 @@
+:root {
+    --color-primary: #fb2056;
+    --color-primary-hover: #da1c4b;
+    --color-light-gray: #f5f5f5;
+    --color-light-black: #191919;
+    --color-white: #fff;
+
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
